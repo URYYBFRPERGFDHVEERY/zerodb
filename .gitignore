@@ -22,3 +22,4 @@ test.fs
 /build
 /docs/build
 .cache
+.vagrant/
